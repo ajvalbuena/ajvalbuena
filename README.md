@@ -1,5 +1,19 @@
-<h1 align="center">👋 Hi there! I'm Ana </h1>
-
+<h1 >👋 Hi there! I'm Ana </h1>
+<br />
+  <a href="https://www.linkedin.com/in/anajv/">
+    <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
+  </a>
+  <a href="https://twitter.com/AnaJValbu">
+    <img align="left" width="26px" src="https://cdn.simpleicons.org/twitter" />
+  </a>
+  <a href="mailto:ana.jimenez.valbuena@gmail.com">
+    <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
+  </a>
+    <a href="https://linktr.ee/anajv">
+    <img align="left" width="26px" src="https://cdn.simpleicons.org/linktree" />
+  </a>
+<br />
+<br />
 
 ### 🚀 About Me
 Hey everyone! I'm Ana, a software engineer originally from Madrid. While I started off studying telecommunication engineering, my true passion lies in coding and problem-solving. When I'm not diving into the world of tech, you can find me out exploring new places, climbing, or trying and learning new things. 🧗🏼‍♀️
@@ -35,15 +49,3 @@ Ex-[Thoughtwroker](https://www.thoughtworks.com/)
 - [IWD2023 - Women Techmakers Barcelona](https://www.linkedin.com/posts/women-techmakers-barcelona_iwd2023-barcelona-wtmdaretobe-activity-7039341994053152768-4plt?utm_source=share&utm_medium=member_desktop). Talk in the International Women's Day
 - [My blog](https://anaentanzania.wordpress.com/) about my exerience in Tanzania working for a tech NGO ONGAWA
 
-### 🤙🏼 Let's connect
-<a href="https://www.linkedin.com/in/anajv/">
-  <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
-</a>
-<a href="https://twitter.com/AnaJValbu">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/twitter" />
-</a>
-<a href="mailto:ana.jimenez.valbuena@gmail.com">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
-</a>
-
-<br />
