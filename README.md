@@ -11,8 +11,18 @@ I've discovered that solid tech practices mean less work and more life enjoyment
 
 And hey, I believe in highlighting the work of women in the tech scene. As a woman and developer 👩🏽‍💻, I'm proud of my achievements, and I'm dedicated to promoting more recognition and respect for women in the field. We've got loads to bring to the table! 💜
 
-### 📚 Tech Stack
-Java, Kotlin, TypeScript, Spring,React, Mysql, GCP...
+### ⚒️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![GCP](	https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 ### 🛣️ My Professional Experiences 
