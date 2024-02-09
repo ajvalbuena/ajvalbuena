@@ -4,10 +4,10 @@
 ### 🚀 About Me
 Hey everyone! I'm Ana, a software engineer originally from Madrid. While I started off studying telecommunication engineering, my true passion lies in coding and problem-solving. When I'm not diving into the world of tech, you can find me out exploring new places, climbing, or trying and learning new things. 🧗🏼‍♀️
 
-I firmly believe that combining technology with our core human values can pave the way for a more sustainable and better future. And I'm committed to making that vision a reality!
+I firmly believe that combining technology with our core human values can pave the way for a more sustainable and better future ❤️‍🩹. And I'm committed to making that vision a reality!
 
 ### 🌱 My mission
-I've discovered that solid tech practices mean less work and more life enjoyment. Trusting our code and our team is key. Working remotely, I find myself more efficient, sociable, and relax — all thanks to TDD, pairing, feedback, CI/CD, TBD, Agile, and other practices.
+I've discovered that solid tech practices mean less work and more life enjoyment. Trusting our code and our team is key. Working remotely 🌍, I find myself more efficient, sociable, and relax — all thanks to TDD, pairing, feedback, CI/CD, TBD, Agile, and other practices.
 
 And hey, I believe in highlighting the work of women in the tech scene. As a woman and developer 👩🏽‍💻, I'm proud of my achievements, and I'm dedicated to promoting more recognition and respect for women in the field. We've got loads to bring to the table! 💜
 
