@@ -40,7 +40,7 @@ And hey, I believe in highlighting the work of women in the tech scene. As a wom
 
 
 ### 🛣️ My Professional Experiences 
-Now I am coding at backend and frotnend for Clevergy, trying to make a more sustainable world through energy control. [Take a look !](https://www.clever.gy/)
+Now I am coding at backend for Clevergy, trying to make a more sustainable world through energy control. [Take a look !](https://www.clever.gy/)
 
 Ex-[Thoughtwroker](https://www.thoughtworks.com/)
 
