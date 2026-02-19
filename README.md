@@ -3,9 +3,6 @@
   <a href="https://www.linkedin.com/in/anajv/">
     <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
   </a>
-  <a href="https://twitter.com/AnaJValbu">
-    <img align="left" width="26px" src="https://cdn.simpleicons.org/twitter" />
-  </a>
   <a href="mailto:ana.jimenez.valbuena@gmail.com">
     <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
   </a>
